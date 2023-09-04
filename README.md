@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabri-avila) 
 
 # 💻 Tech Stack:
-<div style="display:flex;gap:1rem;margin:1rem 0">
+<div style="display:flex;gap:1rem;margin:1rem">
 <svg width="50px" height="50px" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
     <g fill="none">
         <rect width="256" height="256" fill="#F0DB4F" rx="60"/>
