@@ -12,11 +12,13 @@
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/2be48280-440b-47e3-b06e-ec6279d413fa" alt="Bootstrap">
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/310858ea-0e48-4b28-ba4f-ae80659722c8" alt="React" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/35855b6b-3b47-4bb1-bd8d-61c6b1d8082b" alt="SASS">
-<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/5a2f9bb2-7b42-4e48-86c4-80cdeb8c9159" alt="Styled-Components" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/7fda2b67-2924-47e6-b3b0-46a81cc60436" alt="Redux" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/c1e292c1-f37b-42d2-af0e-ccf2e6c9f6e0" alt="React-Router" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/141642bb-f09c-478a-91e3-a7ba7c061630" alt="Git" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/75666e1d-970d-4e27-8f5c-38f89a6d5b10" alt="Python" >
+<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/767831a8-c6e9-47a0-adaf-c2a90babd866" alt="Flask">
+
+
 
 
 
