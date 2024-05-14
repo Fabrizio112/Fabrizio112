@@ -16,7 +16,10 @@
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/c1e292c1-f37b-42d2-af0e-ccf2e6c9f6e0" alt="React-Router" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/141642bb-f09c-478a-91e3-a7ba7c061630" alt="Git" >
 <img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/75666e1d-970d-4e27-8f5c-38f89a6d5b10" alt="Python" >
-<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/767831a8-c6e9-47a0-adaf-c2a90babd866" alt="Flask">
+<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/9ddeb0c0-11c6-4be4-826e-7921cf1dec76" alt="Flask">
+<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/11c24238-f18d-46d8-9b83-1d99e706412a" alt="MySQL">
+<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/2d37a931-546f-4c05-a2f7-39d55f872082" alt="Node.js">
+<img width="100px" height="100px" src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/bd7b8dae-d557-4ea0-8a6a-d552ddd4205a" alt="MongoDB">
 
 
 
