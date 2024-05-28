@@ -1,9 +1,11 @@
-# 😁Hola soy Fabrizio Avila
+
 <p align="center"; width=100%;"><img src="https://github.com/Fabrizio112/Fabrizio112/assets/109549522/d6ce1f6e-1aae-496a-b2fa-0d3b93a32d31" alt="Fabrizio-Imagen" width="300px" height="300px" /></p>
 <div>
-
-
-  <p><img src="https://imgs.search.brave.com/cO1RST6qe4QbqrEcc1PQkr9XvJYgmj3dJdw-5b7jvMI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTEy/OTg2MTExNi9lcy9m/b3RvL2FyZ2VudGlu/YS1mbGFnLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1zQWxZ/S3g3cjZLdVl2TERn/MDNiX1RjNURmNUlI/OXRuNFktU05Dc0lV/b2o0PQ" width="20px" height="15px">  Oriundo de la provincia de Córdoba ,Argentina</p>
+<div align="center">
+  <h1><strong style="font-size: 24px;">😁Hola soy Fabrizio Avila 😁</strong></h1>
+</div>
+  
+<p><img src="https://imgs.search.brave.com/cO1RST6qe4QbqrEcc1PQkr9XvJYgmj3dJdw-5b7jvMI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTEy/OTg2MTExNi9lcy9m/b3RvL2FyZ2VudGlu/YS1mbGFnLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1zQWxZ/S3g3cjZLdVl2TERn/MDNiX1RjNURmNUlI/OXRuNFktU05Dc0lV/b2o0PQ" width="20px" height="15px">  Oriundo de la provincia de Córdoba ,Argentina</p>
   <p>🙋‍♂️Estudiante de la Tecnicatura en Desarrollo de Software y  Desarrollador Autodidacta que esta buscando oportunidades para ganar experiencia.</p>
   <p>📕Full Stack Web Developer</p>
   <p>⚔️ Dispuesto siempre a enfrentar desafíos y retos, y aprender nuevas cosas.</p>
